@@ -1,0 +1,23 @@
+{
+  "name": "sandbox-exceljs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szk213/sandbox-exceljs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/szk213/sandbox-exceljs/issues"
+  },
+  "homepage": "https://github.com/szk213/sandbox-exceljs#readme",
+  "dependencies": {
+    "exceljs": "^0.8.2"
+  }
+}
